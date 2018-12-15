@@ -5,6 +5,5 @@ pull_request_rules:
       merge: 
         method: merge
     conditions: 
-      - title='test'
+    - title=test
     name: "delete head branch after merge"
-
