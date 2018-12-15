@@ -8,6 +8,8 @@ export PS1='#'
 alias ls='ls -G'
 ```
 
+
+
 # install proxy
 ```
 brew install shadowsocks-libev
