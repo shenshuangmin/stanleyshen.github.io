@@ -1,7 +1,7 @@
 pull_request_rules:
   - name: delete head branch after merge
     conditions:
-     - label:'test'
+     - title:'test'
     actions:
       merge:
         method: merge
